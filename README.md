@@ -86,5 +86,5 @@ Success Response:
 ## 👤 Author  
 Ashutosh Shelke  
 Full Stack Java Developer  
-📧 Email: ashutoshshelke24.com  
+📧 Email: ashutoshshelke24@gmail.com  
 🔗 https://www.linkedin.com/in/ashutosh-fullstackdeveloper  
