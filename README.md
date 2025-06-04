@@ -37,9 +37,10 @@ com.task.User_Management
 ✅ Step 1: Create Database in MySQL  
 CREATE DATABASE user_management_db;  
 
-✅ Step 2: Clone & Run  
-git clone https://github.com/your-username/user-management.git  
-cd user-management  
+✅ Step 2: Clone & Run
+git clone https://github.com/ashutoshSnj/UserManagement_Service.git
+cd UserManagement_Service
+
 
 ## 🧪 API Testing (Use in Postman)  
 🔹 1. Register User  
