@@ -25,7 +25,7 @@ com.task.User_Management
 │  
 ├── config                 // JWT Util & SecurityConfig  
 ├── controller             // UserController  
-├── dto                   // UserRequestDto, UserResponseDto  
+├── dto                    // UserRequestDto, UserResponseDto  
 ├── entity                 // User, Role  
 ├── repository             // UserRepository, RoleRepository  
 ├── service                // UserService, CustomUserDetailsService  
@@ -37,10 +37,9 @@ com.task.User_Management
 ✅ Step 1: Create Database in MySQL  
 CREATE DATABASE user_management_db;  
 
-✅ Step 2: Clone & Run
-git clone https://github.com/ashutoshSnj/UserManagement_Service.git
-cd UserManagement_Service
-
+✅ Step 2: Clone & Run  
+git clone https://github.com/ashutoshSnj/UserManagement_Service.git  
+cd UserManagement_Service  
 
 ## 🧪 API Testing (Use in Postman)  
 🔹 1. Register User  
